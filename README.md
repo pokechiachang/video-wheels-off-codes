@@ -58,6 +58,15 @@ RM06a65559d95680ca6f3b80203dd0d2d8
 ### Twilio React App - P2P Room 
 <img width="1552" alt="Twilio React App P2P" src="https://user-images.githubusercontent.com/102219271/172108852-e3d18a88-147c-495b-ad2c-3c542a3a0f3e.png">
 
+![Screen Shot 2022-06-23 at 10 47 08 AM](https://user-images.githubusercontent.com/102219271/175196961-9445e9a3-ab27-44df-9179-b55153b8ce09.png)
+
+### Request Inspector
+
+![Screen Shot 2022-06-23 at 10 47 18 AM](https://user-images.githubusercontent.com/102219271/175197149-66c1402b-9ebc-4dff-b9c1-4d04acf5fbdd.png)
+
+![Screen Shot 2022-06-23 at 10 48 41 AM](https://user-images.githubusercontent.com/102219271/175197272-14a11362-b8ac-45c4-b1d6-8fd260bac748.png)
+
+
 ## Kibana
 
 ### sdki-rooms-
